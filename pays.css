@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+
+.firstclass {
+ /* background-color:;*/
+ color:cornflowerblue;
+  margin: 30px;
+	padding: 30px;
+	width: 92%;
+	height: 70px;
+	border-radius: 12px;
+	text-align: center;
+	
+	
+}
+
+
+.firstclass:hover {
+ /* background-color: darkblue;*/
+ color:cornflowerblue;
+
+	padding: 30px;
+	width: 92%;
+	height: 70px;
+	transition: 1s;
+border-radius: 12px;
+	align-content: center;
+	
+}
+
+
+.cities{
+	width:60%;
+	
+	align-content: center;
+	color: white;
+	border-radius:14px;
+	position: absolute;
+	left:250px;
+}
+
+body{
+	
+	background-color:firebrick;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+	
+	
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color:none;
+	border-radius: 0px;
+}
+
+
+
+li {
+  float:left;
+	
+}
+
+li a {
+  display: block;
+  color: WHITE;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+	border-radius: 30px;
+	
+}
+
+li a:hover {
+  background-color:cornflowerblue;
+	color:white;
+	transition: 0.8s;
+	
+}
+
+
+.cities{
+	width:60%;
+	background-color:#575757;
+	align-content:center;
+	color: white;
+	border-radius:14px;
+	position: absolute;
+	left:250px;
+}
+
+input[type="button"]{
+	
+	
+	border-radius:40px;
+	background-color: chartreuse;
+	border:none;
+	padding: 20px;
+	width: 358px;
+	height: 70px;
+	font-size: 25px;
+	transition:3s;
+}
+
+input[type="button"]:hover{
+	
+	
+	border-radius:40px;
+	background-color: chartreuse;
+	border:none;
+	padding: 20px;
+	width: 358px;
+	height: 70px;
+	font-size: 25px;
+	transition:2s;
+}
+
+h1{
+	
+	color:#2AE10D;
+	
+}
+
+p{
+	left:120px;
+}
+
+h3{
+	color:darkorange;
+}
+
+.revv{
+	background-color: gold;
+	color:black;
+}
